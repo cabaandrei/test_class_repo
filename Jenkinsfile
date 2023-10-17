@@ -8,6 +8,7 @@ pipeline {
                 git 'https://github.com/cabaandrei/test_class_repo'
                 bat 'dir'
                 bat 'python some_test.py'
+                echo 'Just some bye-bye message'
             }
         }
     }
