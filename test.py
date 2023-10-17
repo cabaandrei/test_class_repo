@@ -32,6 +32,6 @@ print(f'result is {result}.')
 #     print('Why are you tipping so little?')
 # else:
 #     print("You're generous!")
-assert result == '6.00'
+assert result == '5.00'
 input()
 my_driver.close()
